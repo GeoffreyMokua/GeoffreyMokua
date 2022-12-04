@@ -1,10 +1,11 @@
--Hi there wave
--My name is Geoffrey. Welcome to my Github!
+Hi there wave
 
--I am a full-stack web developer. I recently graduated from Jomo Kenyatta university in Health Informatics and decided to make a bigger leap to learn programming.
- I spend a lot of time brainstorming ideas and always try to create something.
+My name is Geoffrey. Welcome to my Github!
 
-- My motivation for coding is fairly simple and it's somewhat related to my college major.  
+I am a full-stack web developer. I recently graduated from Jomo Kenyatta university in Health Informatics and decided to make a bigger leap to learn programming.
+I spend a lot of time brainstorming ideas and always try to create something.
+
+ My motivation for coding is fairly simple and it's somewhat related to my college major.  
  I learned web developing because I want to code for good. 
  Web developing is very versatile and is one of the most common and fast-growing demand skills. 
  I would like to be the go-to person among friends or anyone who needs a website. 
