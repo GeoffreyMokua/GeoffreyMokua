@@ -18,3 +18,5 @@ Technical skills: Javascript, ReactJS, Ruby On Rails, Ruby, Git, mySQL
 - I’m learning React Hooks, Jest/Enzyme test
 - I want to be better at website designs and building backend API.
 - How to reach me: You can contact me via https://www.linkedin.com/in/geoffrey-nyakundi/
+
+Personal portfolio link-https://geoffrey-portfolio.netlify.app/
